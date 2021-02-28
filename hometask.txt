@@ -1,1 +1,16 @@
 В файле README удалённой ветки demo отсутсвует фраза "with nice buttons on his jacket (buttons branch)" в конце строки.
+Я вижу 14 коммитов. Комментарии из них:
+1)hometask.txt содержит сравнение веток master и demo.
+2)Merge branch 'boots_buttons'
+3)Merge remote-tracking branch 'origin/hat'
+4)Merge branch 'demo' of https://github.com/YandexLyceum/human into boots_buttons
+5)Merge remote-tracking branch 'origin/buttons' into boots_buttons
+6)Merge remote-tracking branch 'origin/boots' into boots_buttons
+7)Merge branch 'buttons' into demo
+8)fix readme
+9)dots
+10)README added
+11)Merge branch 'boots' into release
+12)boots
+13)heat added
+14)init
